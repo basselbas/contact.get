@@ -6,9 +6,9 @@ FN: Bassel  Bas
 ORG:tutoll.com;
 TITLE:Software Engineer\n
 EMAIL;type=INTERNET;type=WORK;type=pref:bassel.bas@outlook.com
-TEL;type=WORK;type=VOICE:+31 6878 26083
+TEL;type=WORK;type=VOICE:+31687826083
 item1.ADR;type=WORK;type=pref:;;Van Lan NOI\nThe Hague\, 2593 HT;;;Netherlands
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:tutoll.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
